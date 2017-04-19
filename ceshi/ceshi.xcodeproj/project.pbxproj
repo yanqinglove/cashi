@@ -7,28 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0434C3641EA7436700DC841A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0434C3631EA7436700DC841A /* main.m */; };
-		0434C3671EA7436700DC841A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0434C3661EA7436700DC841A /* AppDelegate.m */; };
-		0434C36A1EA7436700DC841A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0434C3691EA7436700DC841A /* ViewController.m */; };
-		0434C36D1EA7436700DC841A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0434C36B1EA7436700DC841A /* Main.storyboard */; };
-		0434C36F1EA7436700DC841A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0434C36E1EA7436700DC841A /* Assets.xcassets */; };
-		0434C3721EA7436700DC841A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0434C3701EA7436700DC841A /* LaunchScreen.storyboard */; };
-		0434C68B1EA74DA500DC841A /* new.m in Sources */ = {isa = PBXBuildFile; fileRef = 0434C68A1EA74DA500DC841A /* new.m */; };
+		0434C69F1EA7508400DC841A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0434C6911EA7508400DC841A /* AppDelegate.m */; };
+		0434C6A01EA7508400DC841A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0434C6921EA7508400DC841A /* Assets.xcassets */; };
+		0434C6A11EA7508400DC841A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0434C6931EA7508400DC841A /* LaunchScreen.storyboard */; };
+		0434C6A21EA7508400DC841A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0434C6951EA7508400DC841A /* Main.storyboard */; };
+		0434C6A31EA7508400DC841A /* hah.m in Sources */ = {isa = PBXBuildFile; fileRef = 0434C6981EA7508400DC841A /* hah.m */; };
+		0434C6A41EA7508400DC841A /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0434C6991EA7508400DC841A /* Info.plist */; };
+		0434C6A51EA7508400DC841A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0434C69A1EA7508400DC841A /* main.m */; };
+		0434C6A61EA7508400DC841A /* new.m in Sources */ = {isa = PBXBuildFile; fileRef = 0434C69C1EA7508400DC841A /* new.m */; };
+		0434C6A71EA7508400DC841A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0434C69E1EA7508400DC841A /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0434C35F1EA7436700DC841A /* ceshi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ceshi.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0434C3631EA7436700DC841A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0434C3651EA7436700DC841A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		0434C3661EA7436700DC841A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		0434C3681EA7436700DC841A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		0434C3691EA7436700DC841A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		0434C36C1EA7436700DC841A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		0434C36E1EA7436700DC841A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		0434C3711EA7436700DC841A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		0434C3731EA7436700DC841A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0434C6891EA74DA500DC841A /* new.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = new.h; sourceTree = "<group>"; };
-		0434C68A1EA74DA500DC841A /* new.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = new.m; sourceTree = "<group>"; };
+		0434C6901EA7508400DC841A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		0434C6911EA7508400DC841A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		0434C6921EA7508400DC841A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0434C6941EA7508400DC841A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0434C6961EA7508400DC841A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0434C6971EA7508400DC841A /* hah.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hah.h; sourceTree = "<group>"; };
+		0434C6981EA7508400DC841A /* hah.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = hah.m; sourceTree = "<group>"; };
+		0434C6991EA7508400DC841A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0434C69A1EA7508400DC841A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0434C69B1EA7508400DC841A /* new.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = new.h; sourceTree = "<group>"; };
+		0434C69C1EA7508400DC841A /* new.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = new.m; sourceTree = "<group>"; };
+		0434C69D1EA7508400DC841A /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		0434C69E1EA7508400DC841A /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,7 +49,7 @@
 		0434C3561EA7436700DC841A = {
 			isa = PBXGroup;
 			children = (
-				0434C3611EA7436700DC841A /* ceshi */,
+				0434C68F1EA7508400DC841A /* ceshi */,
 				0434C3601EA7436700DC841A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,32 +62,24 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0434C3611EA7436700DC841A /* ceshi */ = {
+		0434C68F1EA7508400DC841A /* ceshi */ = {
 			isa = PBXGroup;
 			children = (
-				0434C3651EA7436700DC841A /* AppDelegate.h */,
-				0434C3661EA7436700DC841A /* AppDelegate.m */,
-				0434C3681EA7436700DC841A /* ViewController.h */,
-				0434C6891EA74DA500DC841A /* new.h */,
-				0434C68A1EA74DA500DC841A /* new.m */,
-				0434C3691EA7436700DC841A /* ViewController.m */,
-				0434C68C1EA74DC800DC841A /* hah.h */,
-				0434C68D1EA74DC800DC841A /* hah.m */,
-				0434C36B1EA7436700DC841A /* Main.storyboard */,
-				0434C36E1EA7436700DC841A /* Assets.xcassets */,
-				0434C3701EA7436700DC841A /* LaunchScreen.storyboard */,
-				0434C3731EA7436700DC841A /* Info.plist */,
-				0434C3621EA7436700DC841A /* Supporting Files */,
+				0434C6901EA7508400DC841A /* AppDelegate.h */,
+				0434C6911EA7508400DC841A /* AppDelegate.m */,
+				0434C6921EA7508400DC841A /* Assets.xcassets */,
+				0434C6931EA7508400DC841A /* LaunchScreen.storyboard */,
+				0434C6951EA7508400DC841A /* Main.storyboard */,
+				0434C6971EA7508400DC841A /* hah.h */,
+				0434C6981EA7508400DC841A /* hah.m */,
+				0434C6991EA7508400DC841A /* Info.plist */,
+				0434C69A1EA7508400DC841A /* main.m */,
+				0434C69B1EA7508400DC841A /* new.h */,
+				0434C69C1EA7508400DC841A /* new.m */,
+				0434C69D1EA7508400DC841A /* ViewController.h */,
+				0434C69E1EA7508400DC841A /* ViewController.m */,
 			);
 			path = ceshi;
-			sourceTree = "<group>";
-		};
-		0434C3621EA7436700DC841A /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				0434C3631EA7436700DC841A /* main.m */,
-			);
-			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -143,9 +139,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0434C3721EA7436700DC841A /* LaunchScreen.storyboard in Resources */,
-				0434C36F1EA7436700DC841A /* Assets.xcassets in Resources */,
-				0434C36D1EA7436700DC841A /* Main.storyboard in Resources */,
+				0434C6A41EA7508400DC841A /* Info.plist in Resources */,
+				0434C6A21EA7508400DC841A /* Main.storyboard in Resources */,
+				0434C6A01EA7508400DC841A /* Assets.xcassets in Resources */,
+				0434C6A11EA7508400DC841A /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -156,31 +153,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0434C36A1EA7436700DC841A /* ViewController.m in Sources */,
-				0434C68E1EA74DC800DC841A /* hah.m in Sources */,
-				0434C3671EA7436700DC841A /* AppDelegate.m in Sources */,
-				0434C68B1EA74DA500DC841A /* new.m in Sources */,
-				0434C3641EA7436700DC841A /* main.m in Sources */,
+				0434C69F1EA7508400DC841A /* AppDelegate.m in Sources */,
+				0434C6A51EA7508400DC841A /* main.m in Sources */,
+				0434C6A61EA7508400DC841A /* new.m in Sources */,
+				0434C6A31EA7508400DC841A /* hah.m in Sources */,
+				0434C6A71EA7508400DC841A /* ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		0434C36B1EA7436700DC841A /* Main.storyboard */ = {
+		0434C6931EA7508400DC841A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				0434C36C1EA7436700DC841A /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		0434C3701EA7436700DC841A /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				0434C3711EA7436700DC841A /* Base */,
+				0434C6941EA7508400DC841A /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		0434C6951EA7508400DC841A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0434C6961EA7508400DC841A /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
