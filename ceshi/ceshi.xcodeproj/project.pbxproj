@@ -67,6 +67,8 @@
 				0434C6891EA74DA500DC841A /* new.h */,
 				0434C68A1EA74DA500DC841A /* new.m */,
 				0434C3691EA7436700DC841A /* ViewController.m */,
+				0434C68C1EA74DC800DC841A /* hah.h */,
+				0434C68D1EA74DC800DC841A /* hah.m */,
 				0434C36B1EA7436700DC841A /* Main.storyboard */,
 				0434C36E1EA7436700DC841A /* Assets.xcassets */,
 				0434C3701EA7436700DC841A /* LaunchScreen.storyboard */,
@@ -155,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0434C36A1EA7436700DC841A /* ViewController.m in Sources */,
+				0434C68E1EA74DC800DC841A /* hah.m in Sources */,
 				0434C3671EA7436700DC841A /* AppDelegate.m in Sources */,
 				0434C68B1EA74DA500DC841A /* new.m in Sources */,
 				0434C3641EA7436700DC841A /* main.m in Sources */,
